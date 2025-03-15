@@ -78,6 +78,11 @@ Run the app using the following command:
 bash
 python app.py
 Open a web browser and visit http://127.0.0.1:8050 to access the dashboard.
+![Screenshot 03-15-2025 20 24 04](https://github.com/user-attachments/assets/9b488146-35fd-446f-820a-9d26703bec2f)
+![Screenshot 03-15-2025 20 24 26](https://github.com/user-attachments/assets/a69647cc-a0f8-4002-a169-daeda2410f2d)
+
+![Screenshot 03-15-2025 20 25 31](https://github.com/user-attachments/assets/5afd4721-29d7-48e5-a281-95c563b120e3)
+![Screenshot 03-15-2025 20 26 00](https://github.com/user-attachments/assets/d13c391b-81ff-41d6-98e1-edcc471a6a02)
 
 
 ## Notes
